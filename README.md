@@ -1,6 +1,9 @@
 👋 Hi, I’m Cooper!
+
 😃 I run a YouTube channel called Cooper Codes which focuses on providing top tier educationa coding content for beginners, intermediate programmers, and even industry professionals!
+
 💻 This GitHub will contain the code to some of the projects from my videos, feel free to check the code out yourself!
+
 📫 Check out my YouTube channel here! https://www.youtube.com/c/CooperCodes
 
 <!---
