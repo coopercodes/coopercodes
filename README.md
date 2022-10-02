@@ -6,6 +6,8 @@
 
 📫 Check out my YouTube channel here! https://www.youtube.com/c/CooperCodes
 
+👉 Enjoying my videos? Sign up for FREE content here: https://coopercodes.podia.com/
+
 <!---
 cooper-codes/cooper-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
